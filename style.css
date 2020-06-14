@@ -177,7 +177,7 @@ html {
 }
 
 #header .header-name {
-    cursor: pointer;
+    cursor: default;
     border-style: solid;
     border-color: #008080;
     border-width: 5px;
