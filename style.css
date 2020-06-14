@@ -66,7 +66,6 @@ a {
     text-decoration: none;
     border-bottom: none;
     transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, transform 0.5s ease, visibility 0.5s;
-    color: black;
 }
 
 p {
@@ -127,7 +126,7 @@ html {
     text-align : center;
 }
 
-#intro p {
+#intro a {
     text-decoration: none;
     color: #7a092b;
     border-bottom-color: rgba(255, 255, 255, 0.5);
